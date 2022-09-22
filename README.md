@@ -1,7 +1,7 @@
-# Project introduction:
+# Project Introduction:
 # Carry out a series of data mining and data analysis through CRISP-DM and KDD processes. The project aims to predict high-rating applications for application development start-ups and provide decision support for application development direction.
 
-# Main process:
+# Main Process:
 # 1. Get the Apple Store dataset from the third-party open source website Kaggle.
 # 2. Use SPSS Modeler, Python, PySpark to understand and prepare data, including data exploration, data cleaning, data balancing, etc.
 # 3. Discuss data mining methods, analyze and select appropriate data mining algorithms and models.
